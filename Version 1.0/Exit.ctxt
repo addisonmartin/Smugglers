@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=nx\ ny
+comment0.target=Exit(int,\ int)
+comment1.params=xl\ yl\ xel\ yel
+comment1.target=boolean\ isAtExit(int,\ int,\ int,\ int)
+numComments=2

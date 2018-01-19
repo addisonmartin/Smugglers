@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=nx\ ny\ cx\ cy
+comment0.target=Building(int,\ int,\ int,\ int)
+comment1.params=
+comment1.target=int\ getCenterX()
+comment2.params=
+comment2.target=int\ getCenterY()
+comment3.params=dir
+comment3.target=void\ draw(int)
+comment4.params=
+comment4.target=int\ getDirection()
+numComments=5

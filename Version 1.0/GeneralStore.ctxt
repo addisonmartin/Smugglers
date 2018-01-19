@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=tx\ ty\ cx\ cy\ dir
+comment0.target=GeneralStore(int,\ int,\ int,\ int,\ int)
+numComments=1

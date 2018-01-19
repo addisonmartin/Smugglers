@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Clock()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ updateTimer()
+comment3.params=
+comment3.target=int\ returnMinutes()
+comment4.params=
+comment4.target=int\ returnSeconds()
+numComments=5

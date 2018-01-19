@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=nx\ ny
+comment0.target=Location(int,\ int)
+comment1.params=
+comment1.target=int\ getTargetX()
+comment2.params=
+comment2.target=int\ getTargetY()
+comment3.params=xl\ yl\ xtl\ ytl
+comment3.target=boolean\ isAtLocation(int,\ int,\ int,\ int)
+numComments=4
